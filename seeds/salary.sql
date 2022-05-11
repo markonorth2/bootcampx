@@ -1,5 +1,3 @@
-CREATE TABLE salary (
-  id SERIAL PRIMARY KEY NOT NULL,
-  name VARCHAR(255) NOT NULL,
-  salary INTEGER
-);
+
+
+INSERT INTO salary (name, salary) VALUES ('John', 50000, 1);
