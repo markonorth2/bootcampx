@@ -8,3 +8,4 @@ INSERT INTO salary (name, slate) VALUES ("Melissa", 1100000);
 INSERT INTO salary (name, slate) VALUES ("Chris", 30000);
 INSERT INTO salary (name, slate) VALUES ("Bowen", 90000);
 INSERT INTO salary (name, slate) VALUES ("Johnson", 65000)
+INSERT INTO salary (name, slate) VALUES ('Benny', 50000);
